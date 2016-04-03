@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'moodle_29';
-$db['default']['password'] = 'moodle_29';
-$db['default']['database'] = 'moodle_29';
+$db['default']['hostname'] = 'hemisferiocu.cutuw7adzv33.us-east-1.rds.amazonaws.com:3306';
+$db['default']['username'] = 'Hemisferio_2010';
+$db['default']['password'] = 'Hemisferio_2010';
+$db['default']['database'] = 'Hemisferio_cu';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
